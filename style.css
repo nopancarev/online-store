@@ -1,0 +1,190 @@
+body {
+  background-color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+  text-decoration: none;
+  padding: 10px;
+}
+h2 {
+  text-transform: uppercase;
+  text-align: center;
+}
+a.button {
+  background-color: green;
+  color: white;
+  padding: 12px 33px;
+  border-radius: 23px;
+  display: inline-block;
+}
+
+.wrapper {
+  width: 700px;
+  margin: auto;
+  padding: 15px;
+}
+.highlighted {
+  color: green;
+}
+.uppercase {
+  text-transform: uppercase;
+}
+.color {
+  color: grey;
+}
+
+/* header */
+
+.header {
+  padding: 16px;
+}
+.header a {
+  color: black;
+  font-size: 15px;
+  padding: 7px;
+}
+.header a.highlighted {
+  text-transform: uppercase;
+  color: green;
+}
+.header img {
+  margin-right: 250px;
+}
+
+/* intro */
+
+.intro {
+  width: 700px;
+  height: 380px;
+  background-image: url("images/5LsP08K.jpg");
+}
+.text {
+  width: 250px;
+  padding-top: 100px;
+  padding-left: 20px;
+}
+.intro h2 {
+  text-align: left;
+}
+
+/* main */
+
+.main {
+  padding: 30px 50px;
+}
+.categories table th {
+  padding: 5px;
+}
+.categories table td {
+  text-align: center;
+}
+.categories table td .button {
+  width: 40%;
+}
+
+/* offers */
+
+.offers {
+  padding: 5px;
+  padding-top: 30px;
+}
+.box {
+  height: 4px;
+  width: 4px;
+  background-color: lightgrey;
+  text-transform: uppercase;
+  margin: 3px;
+  text-align: center;
+}
+.imgoffers {
+  margin-right: 15px;
+}
+.textoffers {
+  text-transform: uppercase;
+}
+.textcasual {
+  font-size: small;
+}
+
+/* sale */
+
+.sale {
+  padding-top: 30px;
+}
+
+#finalsale {
+  background-color: lightgrey;
+  text-align: center;
+  text-transform: uppercase;
+  display: block;
+  padding: 44px;
+}
+.sale table {
+  border-collapse: collapse;
+  -webkit-border-horizontal-spacing: 0;
+  -webkit-border-vertical-spacing: 0;
+}
+.sale td {
+  border: 3px solid white;
+  margin: 0;
+  padding: 0;
+}
+
+/* collection */
+
+.collection {
+  padding-top: 30px;
+}
+
+.collection-a {
+  text-align: center;
+  clear: both;
+}
+
+.product {
+  float: left;
+  margin-right: 5px;
+}
+
+/* nike */
+
+.nike {
+  padding-top: 30px;
+  text-align: center;
+}
+
+/* testimonials */
+
+.impressions {
+  background-color: lightgray;
+  padding: 30px;
+  margin-bottom: 30px;
+  float: left;
+  text-align: center;
+  width: 231px;
+  margin-right: 9px;
+}
+.bold {
+  font-weight: bold;
+}
+
+/* footer */
+
+.footer p {
+  color: gray;
+}
+
+.icons {
+  text-align: center;
+  padding: 30px;
+}
+
+.line {
+  background-color: lightgray;
+  height: 2px;
+}
+.link {
+  text-decoration: underline;
+  font-weight: bold;
+}
