@@ -180,10 +180,6 @@ a.button {
   padding: 30px;
 }
 
-.line {
-  background-color: lightgray;
-  height: 2px;
-}
 .link {
   text-decoration: underline;
   font-weight: bold;
