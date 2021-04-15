@@ -64,7 +64,7 @@ a.button {
 }
 .clearfix::after {
   content: "";
-  display: inline-block;
+  display: block;
   clear: both;
 }
 
